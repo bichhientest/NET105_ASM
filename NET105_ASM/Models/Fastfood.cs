@@ -9,9 +9,8 @@ namespace NET105_ASM.Models
 		public string Description { get; set; }
 		public string Price { get; set; }
 
-		public int ComboId { get; set; } // khóa ngoại combo
-		[ForeignKey("Combo")]
-		public ICollection <Combo> Combo { get; set; }
+
+		public ICollection<ComboFastfood> ComboFastfood { get; set; } = null;
 		
 		
 		

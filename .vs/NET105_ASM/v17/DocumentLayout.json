@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\ordercombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\ordercombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,36 +23,40 @@
       "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\combofastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\orderfastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\orderfastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\migrations\\20240612050546_abcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\migrations\\20240612050546_abcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|c:\\net105_asm\\net105_asm\\migrations\\20240612043630_abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E4BAB-7E9D-4D0D-A4DB-FE825785E40F}|NET105_ASM\\NET105_ASM.csproj|solutionrelative:net105_asm\\migrations\\20240612043630_abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +66,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "20240612050546_ABCD.cs",
+              "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Migrations\\20240612050546_ABCD.cs",
+              "RelativeDocumentMoniker": "NET105_ASM\\Migrations\\20240612050546_ABCD.cs",
+              "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Migrations\\20240612050546_ABCD.cs",
+              "RelativeToolTip": "NET105_ASM\\Migrations\\20240612050546_ABCD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:05:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240612043630_ABC.cs",
+              "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Migrations\\20240612043630_ABC.cs",
+              "RelativeDocumentMoniker": "NET105_ASM\\Migrations\\20240612043630_ABC.cs",
+              "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Migrations\\20240612043630_ABC.cs",
+              "RelativeToolTip": "NET105_ASM\\Migrations\\20240612043630_ABC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:36:30.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCombo.cs",
+              "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\OrderCombo.cs",
+              "RelativeDocumentMoniker": "NET105_ASM\\Models\\OrderCombo.cs",
+              "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\OrderCombo.cs",
+              "RelativeToolTip": "NET105_ASM\\Models\\OrderCombo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:22:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NET105_ASM\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NET105_ASM\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T08:19:16.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T08:19:16.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\ErrorViewModel.cs",
@@ -79,21 +126,19 @@
               "RelativeToolTip": "NET105_ASM\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T07:56:23.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T07:56:23.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ComboFastfood.cs",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\ComboFastfood.cs",
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\ComboFastfood.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\ComboFastfood.cs",
               "RelativeToolTip": "NET105_ASM\\Models\\ComboFastfood.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAWwAgAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T07:33:49.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T07:33:49.828Z"
             },
             {
               "$type": "Document",
@@ -103,7 +148,7 @@
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\AppDbContext.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\AppDbContext.cs",
               "RelativeToolTip": "NET105_ASM\\Models\\AppDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAewBkAAAAoAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T07:20:32.231Z",
               "EditorCaption": ""
@@ -118,73 +163,67 @@
               "RelativeToolTip": "NET105_ASM\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T07:19:42.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T07:19:42.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\appsettings.json",
               "RelativeDocumentMoniker": "NET105_ASM\\appsettings.json",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\appsettings.json",
               "RelativeToolTip": "NET105_ASM\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-24T07:18:31.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T07:18:31.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\OrderDetail.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\OrderDetail.cs",
               "RelativeToolTip": "NET105_ASM\\Models\\OrderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:56:25.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T06:56:25.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "NET105_ASM\\Models\\Order.cs",
-              "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\Order.cs",
-              "RelativeToolTip": "NET105_ASM\\Models\\Order.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA4AAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "OrderFastfood.cs",
+              "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\OrderFastfood.cs",
+              "RelativeDocumentMoniker": "NET105_ASM\\Models\\OrderFastfood.cs",
+              "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\OrderFastfood.cs",
+              "RelativeToolTip": "NET105_ASM\\Models\\OrderFastfood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:48:16.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T06:48:16.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Combo.cs",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\Combo.cs",
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\Combo.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\Combo.cs",
               "RelativeToolTip": "NET105_ASM\\Models\\Combo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:45:50.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T06:45:50.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Fastfood.cs",
               "DocumentMoniker": "C:\\NET105_ASM\\NET105_ASM\\Models\\Fastfood.cs",
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\Fastfood.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\Fastfood.cs",
               "RelativeToolTip": "NET105_ASM\\Models\\Fastfood.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:43:43.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T06:43:43.043Z"
             },
             {
               "$type": "Document",
@@ -194,10 +233,9 @@
               "RelativeDocumentMoniker": "NET105_ASM\\Models\\User.cs",
               "ToolTip": "C:\\NET105_ASM\\NET105_ASM\\Models\\User.cs",
               "RelativeToolTip": "NET105_ASM\\Models\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAmAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:30:34.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T06:30:34.493Z"
             },
             {
               "$type": "Bookmark",

@@ -11,7 +11,7 @@ namespace NET105_ASM.Models
 		public string TotalAmount { get; set; }
 
 		[ForeignKey("OrderId")]
-		public Order Orders { get; set; }
+		public OrderFastfood Orders { get; set; }
 
 		[ForeignKey("FastfoodId")]
 		public Fastfood Fastfood { get; set; }

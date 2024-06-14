@@ -17,5 +17,12 @@ namespace NET105_ASM.Models
 		[DataType(DataType.Password)]
 		public string Password { get; set; }
 
-	}
+
+		[Required(ErrorMessage ="Please select a role.")]
+		public string Role { get; set; }
+
+		public ICollection<OrderCombo> OrderCombos { get; set; }
+        public ICollection<OrderFastfood> OrderFastfoods { get; set; }
+
+    }
 }

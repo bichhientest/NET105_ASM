@@ -3,9 +3,9 @@
 	public class ComboFastfood
 	{
 		public int ComboId { get; set; }
-		public Combo Combo { get; set; } = null;
+		public Combo Combo { get; set; }
 
 		public int FastfoodId { get; set; }
-		public Fastfood Fastfood { get; set; } = null;
+		public Fastfood Fastfood { get; set; } 
 	}
 }

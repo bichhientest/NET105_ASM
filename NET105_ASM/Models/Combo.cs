@@ -10,6 +10,8 @@
 		public string Price { get; set; }
 
 		public ICollection<ComboFastfood> ComboFastfood { get; set; }
+        public ICollection<OrderCombo> OrderCombos { get; set; }
 
-	}
+
+    }
 }
